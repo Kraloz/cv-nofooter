@@ -102,9 +102,10 @@ textarea {
  /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+   ========================================================================== */
 
 body{
-  background-color: #DEDFE0;
+  background-color: #FFFFF;
 }
 #panel-info {
   background: #00242B;
@@ -129,7 +130,7 @@ body{
   color: #EFF9F2
 }
 #panel-principal {
-  background: #EFF9F2;
+  background: #DEDFE0;
 }
 #panel-principal h2{
   color: #13674F;
